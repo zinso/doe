@@ -1,0 +1,15 @@
+[package]
+name = "doe"
+version = "0.1.10"
+edition = "2021"
+authors = ["Anonymous <dnrops@anonymous.com>"]
+description = "Macros for efficient development"
+readme = "README.md"
+keywords = ["useful", "macro", "speed-up", "Vec", "development"]
+categories = ["development-tools"]
+license = "MIT"
+documentation = "https://docs.rs/doe"
+repository = "https://gitlab.com/andrew_ryan/doe"
+
+
+[dependencies]
